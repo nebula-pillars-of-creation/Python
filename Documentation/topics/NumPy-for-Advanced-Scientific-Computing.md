@@ -1,0 +1,3 @@
+# NumPy for Advanced Scientific Computing
+
+Start typing here...

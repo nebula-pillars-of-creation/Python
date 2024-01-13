@@ -6,5 +6,144 @@
                  name="Python"
                  start-page="Overview.md">
 
-    <toc-element topic="Overview.md"/>
+    <toc-element topic="Overview.md">
+        <toc-element topic="Introduction-to-Python.md"/>
+        <toc-element topic="History of Python.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Environment-Setup.md">
+        <toc-element topic="Installing-Python.md"/>
+        <toc-element topic="Setting-Up-a-Development-Environment.md"/>
+        <toc-element topic="Virtual-Environments.md"/>
+    </toc-element>
+    <toc-element topic="Basics-of-Python.md">
+        <toc-element topic="First-Python-Program.md"/>
+        <toc-element topic="Basic-Syntax-and-Variables.md"/>
+        <toc-element topic="Operators-and-Expressions.md"/>
+    </toc-element>
+    <toc-element topic="Control-Structures.md">
+        <toc-element topic="Conditional-Statements.md"/>
+        <toc-element topic="Loops.md"/>
+        <toc-element topic="Comprehensions.md"/>
+    </toc-element>
+    <toc-element topic="Functions-and-Modules.md">
+        <toc-element topic="Functions.md"/>
+        <toc-element topic="Modules-and-Packages.md"/>
+    </toc-element>
+    <toc-element topic="Data-Structures.md">
+        <toc-element topic="Built-in-Data-Structures.md"/>
+        <toc-element topic="Advanced-Data-Structures.md"/>
+    </toc-element>
+    <toc-element topic="Object-Oriented-Programming.md">
+        <toc-element topic="Classes-and-Objects.md"/>
+        <toc-element topic="Inheritance-and-Polymorphism.md"/>
+        <toc-element topic="Encapsulation-and-Abstraction.md"/>
+    </toc-element>
+    <toc-element topic="Error-Handling-and-Exceptions.md">
+        <toc-element topic="Basic-Error-Handling.md"/>
+        <toc-element topic="Raising-Exceptions.md"/>
+    </toc-element>
+    <toc-element topic="Advanced-Topics.md">
+        <toc-element topic="Iterators-and-Generators.md"/>
+        <toc-element topic="Decorators.md"/>
+        <toc-element topic="Context-Managers.md"/>
+    </toc-element>
+    <toc-element topic="Data-Structures-and-Algorithms-DSA.md">
+        <toc-element topic="Algorithm-Complexity.md"/>
+        <toc-element topic="Basic-Data-Structures.md"/>
+        <toc-element topic="Algorithmic-Techniques.md"/>
+    </toc-element>
+    <toc-element topic="Design-Patterns-and-System-Design.md">
+        <toc-element topic="System-Design-Basics.md"/>
+        <toc-element topic="Design-Patterns.md"/>
+    </toc-element>
+    <toc-element topic="Python-Libraries-and-Frameworks.md">
+        <toc-element topic="Web-Development.md"/>
+        <toc-element topic="Data-Science-and-Machine-Learning.md"/>
+        <toc-element topic="Automation-and-Scripting.md"/>
+    </toc-element>
+    <toc-element topic="Testing-and-Quality-Assurance.md">
+        <toc-element topic="Unit-Testing.md"/>
+        <toc-element topic="PyTest.md"/>
+        <toc-element topic="Test-Driven-Development-TDD.md"/>
+        <toc-element topic="Static-Analysis-and-Linting.md"/>
+    </toc-element>
+    <toc-element topic="Asynchronous-Programming.md">
+        <toc-element topic="AsyncIO.md"/>
+        <toc-element topic="Building-Async-Applications.md"/>
+    </toc-element>
+    <toc-element topic="Advanced-Language-Features.md">
+        <toc-element topic="Functional-Programming.md"/>
+        <toc-element topic="Metaprogramming.md"/>
+        <toc-element topic="Descriptors-and-Properties.md"/>
+    </toc-element>
+    <toc-element topic="Advanced-Structures.md">
+        <toc-element topic="Collections-Module.md"/>
+        <toc-element topic="Itertools-and-More-Iteration-Tools.md"/>
+        <toc-element topic="Custom-Data-Structures.md"/>
+    </toc-element>
+    <toc-element topic="Networking-and-Parallel-Programming.md">
+        <toc-element topic="Networking-in-Python.md"/>
+        <toc-element topic="Multiprocessing-and-Threading.md"/>
+        <toc-element topic="Concurrent-Futures.md"/>
+    </toc-element>
+    <toc-element topic="Advanced-Web-Development.md">
+        <toc-element topic="Advanced-Flask-and-Django.md"/>
+        <toc-element topic="Asynchronous-Web-Servers.md"/>
+        <toc-element topic="WebSockets-and-Real-Time-Communication.md"/>
+    </toc-element>
+    <toc-element topic="Data-Science-and-Analysis.md">
+        <toc-element topic="Pandas-Advanced-Techniques.md"/>
+        <toc-element topic="Data-Visualization.md"/>
+        <toc-element topic="Statistical-Analysis.md"/>
+    </toc-element>
+    <toc-element topic="Machine-Learning-and-Artificial-Intelligence-ML-AI.md">
+        <toc-element topic="Scikit-Learn-for-Advanced-Macine-Learning.md"/>
+        <toc-element topic="Deep-Learning-with-TensorFlow-and-PyTorch.md"/>
+        <toc-element topic="Natural-Language-Processing.md"/>
+    </toc-element>
+    <toc-element topic="Qt-Framework-for-GUI-Development.md">
+        <toc-element topic="PyQt-and-PySide-Advanced-Topics.md"/>
+        <toc-element topic="Graphics-and-Animations-in-Qt.md"/>
+        <toc-element topic="Packaging-and-Distribution.md"/>
+    </toc-element>
+    <toc-element topic="Testing-and-Debugging.md">
+        <toc-element topic="Advanced-Testing-Techniques.md"/>
+        <toc-element topic="Debugging-and-Profiling.md"/>
+    </toc-element>
+    <toc-element topic="Optimization-and-Performance.md">
+        <toc-element topic="Code-Optimization-Techniques.md"/>
+        <toc-element topic="Cython-and-C-Extensions.md"/>
+        <toc-element topic="Memory-Management-and-Optimization.md"/>
+    </toc-element>
+    <toc-element topic="Advanced-Scripting-and-Automation.md">
+        <toc-element topic="Scripting-for-System-Administration.md"/>
+        <toc-element topic="Automation-Cloud-Services.md"/>
+    </toc-element>
+    <toc-element topic="Scientific-Computing.md">
+        <toc-element topic="NumPy-for-Advanced-Scientific-Computing.md"/>
+        <toc-element topic="SciPy-for-Scientific-Algorithms.md"/>
+        <toc-element topic="Working-with-Large-Datasets.md"/>
+    </toc-element>
+    <toc-element topic="Security-and-Cryptography.md">
+        <toc-element topic="Python-for-Security-Professionals.md"/>
+        <toc-element topic="Cryptography-with-Python.md"/>
+    </toc-element>
+    <toc-element topic="Advanced-Topics-in-Artificial-Interlligence-and-Data-Science-AI-DS.md">
+        <toc-element topic="Advanced-Artifical-Intelligence-AI-Techniques.md"/>
+        <toc-element topic="Big-Data-Processing-with-Python.md"/>
+        <toc-element topic="Time-Series-Analysis.md"/>
+    </toc-element>
+    <toc-element topic="Projects-and-Case-Studies.md">
+        <toc-element topic="Real-World-Projects.md"/>
+        <toc-element topic="Industry-Case-Studies.md"/>
+    </toc-element>
+    <toc-element topic="Keep-Up-with-Python.md">
+        <toc-element topic="Future-of-Python.md"/>
+        <toc-element topic="Python-in-Research-and-Development.md"/>
+    </toc-element>
+    <toc-element topic="Resources-for-Mastery.md">
+        <toc-element topic="Community-and-Conferences.md"/>
+        <toc-element topic="Advanced-Books-and-Courses.md"/>
+    </toc-element>
 </instance-profile>

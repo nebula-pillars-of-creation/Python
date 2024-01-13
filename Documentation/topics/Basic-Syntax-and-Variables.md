@@ -1,0 +1,3 @@
+# Basic Syntax and Variables
+
+Start typing here...

@@ -1,0 +1,3 @@
+# Static Analysis and Linting
+
+Start typing here...
