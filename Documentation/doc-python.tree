@@ -130,7 +130,7 @@
         <toc-element topic="Cryptography-with-Python.md"/>
     </toc-element>
     <toc-element topic="Advanced-Topics-in-Artificial-Interlligence-and-Data-Science-AI-DS.md">
-        <toc-element topic="Advanced-Artifical-Intelligence-AI-Techniques.md"/>
+        <toc-element topic="Advanced-Artificial-Intelligence-AI-Techniques.md"/>
         <toc-element topic="Big-Data-Processing-with-Python.md"/>
         <toc-element topic="Time-Series-Analysis.md"/>
     </toc-element>
